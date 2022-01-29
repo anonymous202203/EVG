@@ -1,4 +1,4 @@
-# SRVQVAE
+# EVG
 
 ## More genrated samples
 
