@@ -24,7 +24,7 @@ Input Text: Flowers to the wind in field.
 
 Input Text: Miami, usa - june 23, 2016 timelapse view of traffic around the freedom tower and downtown buildings in Miami, Florida.
 
-![image](Miami, usa - june 23, 2016 timelapse view of traffic around the freedom tower and downtown buildings in miami, florida,-36666.gif)
+![image](https://github.com/anonymous202203/EVG/blob/main/gif/Miami, usa - june 23, 2016 timelapse view of traffic around the freedom tower and downtown buildings in miami, florida,-36666.gif)
 
 Input Text: 
 
