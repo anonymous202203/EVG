@@ -2,19 +2,6 @@
 
 ## More genrated samples
 
-
-Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset istanbul turkey photo sequence shot in raw, tracking shot.
-
-![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset%20istanbul%20turkey%20photo%20sequence%20shot%20in%20raw,%20tracking%20shot.gif)
-
-Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset.
-
-![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset-27777.gif)
-
-Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset.
-
-![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset-36666.gif)
-
 Input Text: 4k snowing in wintertime, tree foliage snow fall, close up christmas scene, winter view forest, snowing in the wood, tree branches covered with snow, closeup.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/4k%20snowing%20in%20wintertime,%20tree%20foliage%20snow%20fall,%20close%20up%20christmas%20scene,%20winter%20view%20forest,%20snowing%20in%20the%20wood,%20tree%20branches%20covered%20with%20snow,%20closeup.gif)
@@ -42,6 +29,18 @@ Input Text: Aerial, top down, drone shot, over the grindelwald glacier gorge and
 Input Text: An urban commuter train.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/An%20urban%20commuter%20train-35555.gif)
+
+Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset istanbul turkey photo sequence shot in raw, tracking shot.
+
+![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset%20istanbul%20turkey%20photo%20sequence%20shot%20in%20raw,%20tracking%20shot.gif)
+
+Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset.
+
+![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset-27777.gif)
+
+Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset.
+
+![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset-36666.gif)
 
 Input Text: Aquarium with colorfull fish.
 
