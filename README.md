@@ -2,4 +2,6 @@
 
 ## More genrated samples
 
-![image](https://github.com/mzsunn/SRVQVAE/blob/main/samples/1007578858.png)
+Input Text: 4k time lapses of barcelona shot from a high vantage point.
+![image](https://github.com/anonymous202203/EVG/blob/main/gif/4k%20time%20lapses%20of%20barcelona%20shot%20from%20a%20high%20vantage%20point.gif)
+![image](https://github.com/anonymous202203/EVG/blob/main/gif/4k%20time%20lapses%20of%20barcelona%20shot%20from%20a%20high%20vantage%20point.png)
