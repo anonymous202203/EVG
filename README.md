@@ -17,3 +17,27 @@ Input Text: Wheat field under a blue sky.
 Input Text: Cooking barbecue.
 
 ![image](https://github.com/anonymous202203/EVG/blob/main/gif/Cooking%20barbecue.gif)
+
+Input Text: Flowers to the wind in field.
+
+![image](https://github.com/anonymous202203/EVG/blob/main/gif/Flowers%20to%20the%20wind%20in%20field1.gif)
+
+Input Text: Miami, usa - june 23, 2016 timelapse view of traffic around the freedom tower and downtown buildings in Miami, Florida.
+
+![image](Miami, usa - june 23, 2016 timelapse view of traffic around the freedom tower and downtown buildings in miami, florida,-36666.gif)
+
+Input Text: 
+
+![image]()
+
+Input Text: 
+
+![image]()
+
+Input Text: 
+
+![image]()
+
+Input Text: 
+
+![image]()
