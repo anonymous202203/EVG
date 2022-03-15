@@ -2,10 +2,6 @@
 
 ## More genrated samples
 
-Input Text: 4k snowing in wintertime, tree foliage snow fall, close up christmas scene, winter view forest, snowing in the wood, tree branches covered with snow, closeup.
-
-![Image](https://github.com/anonymous202203/EVG/blob/main/gif/4k%20snowing%20in%20wintertime,%20tree%20foliage%20snow%20fall,%20close%20up%20christmas%20scene,%20winter%20view%20forest,%20snowing%20in%20the%20wood,%20tree%20branches%20covered%20with%20snow,%20closeup.gif)
-
 Input Text: 4k time lapse of tokyo's beautiful night traffic scenes shot from a high angle.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/4k%20time%20lapse%20of%20tokyo's%20beautiful%20night%20traffic%20scenes%20shot%20from%20a%20high%20angle-25555.gif)
