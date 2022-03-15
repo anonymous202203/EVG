@@ -26,6 +26,10 @@ Input Text: Miami, usa - june 23, 2016 timelapse view of traffic around the free
 
 ![image](https://github.com/anonymous202203/EVG/blob/main/gif/Miami, usa - june 23, 2016 timelapse view of traffic around the freedom tower and downtown buildings in miami, florida,-36666.gif)
 
+Input Text: Hypnotic colored circle burst abstract background.
+
+![image](https://github.com/anonymous202203/EVG/blob/main/gif/Hypnotic%20colored%20circle%20burst%20abstract%20background-25555.gif)
+
 Input Text: 
 
 ![image]()
