@@ -42,10 +42,6 @@ Input Text: Aquarium with colorfull fish.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Aquarium%20with%20colorfull%20fish.gif)
 
-Input Text: Attractive asian woman cooking while watching laptop in the kitchen.
-
-![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Attractive%20asian%20woman%20cooking%20while%20watching%20laptop%20in%20the%20kitchen-36666.gif)
-
 Input Text: Background - sunset  landscape beach.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Background%20-%20sunset%20%20landscape%20beach-26666.gif)
