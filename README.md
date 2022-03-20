@@ -67,11 +67,6 @@ Input Text: Beautiful sunflowers in the garden.
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Beautiful%20sunflowers%20in%20the%20garden-35555.gif)
 ![Image](https://github.com/anonymous202203/EVG/blob/main/video/Beautiful_sunflowers_in_the_garden_35555.gif)
 
-Input Text: Beautiful sunflowers in the garden.
-
-![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Beautiful%20sunflowers%20in%20the%20garden.gif)
-<!-- ![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif) -->
-
 Input Text: Beauty makeup.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Beauty%20makeup-35555.gif)
@@ -257,15 +252,15 @@ Input Text: Nature environment background.
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Nature%20environment%20background-24444.gif)
 ![Image](https://github.com/anonymous202203/EVG/blob/main/video/Nature_environment_background_24444.gif)
 
-Input Text: Pisa italy 23 july 2015, tourist visiting famous place pisa tower at square of miracles (torre di pisa at piazza.
+<!-- Input Text: Pisa italy 23 july 2015, tourist visiting famous place pisa tower at square of miracles (torre di pisa at piazza.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Pisa%20italy%2023%20july%202015,%20tourist%20visiting%20famous%20place%20pisa%20tower%20at%20square%20of%20miracles%20(torre%20di%20pisa%20at%20piazza-27777.gif)
-<!-- ![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif) -->
+![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif)
 
 Input Text: Pisa italy 23 july 2015, tourist visiting famous place pisa tower at square of miracles (torre di pisa at piazza.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Pisa%20italy%2023%20july%202015,%20tourist%20visiting%20famous%20place%20pisa%20tower%20at%20square%20of%20miracles%20(torre%20di%20pisa%20at%20piazza-34444.gif)
-<!-- ![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif) -->
+![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif) -->
 
 Input Text: Puerto iguazã argentina.
 
@@ -422,10 +417,10 @@ Input Text: Vancouver, canada - circa september 2010 skyline of vancouver, canad
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Vancouver,%20canada%20-%20circa%20september%202010%20skyline%20of%20vancouver,%20canada-36666.gif)
 ![Image](https://github.com/anonymous202203/EVG/blob/main/video/Vancouver,_canada___circa_september_2010_skyline_of_vancouver,_canada_36666.gif)
 
-Input Text: Venice italy july 2015, dolly shot tourist visiting famous place pisa tower at square of miracles (torre di pisa at.
+<!-- Input Text: Venice italy july 2015, dolly shot tourist visiting famous place pisa tower at square of miracles (torre di pisa at.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Venice%20italy%20july%202015,%20dolly%20shot%20tourist%20visiting%20famous%20place%20pisa%20tower%20at%20square%20of%20miracles%20(torre%20di%20pisa%20at-25555.gif)
-![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif)
+![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif) -->
 
 Input Text: Vienna - may 15 the plague column on graben, old town main street on may 15, 2015 in vienna, austria.
 
@@ -452,7 +447,7 @@ Input Text: Wheat field under a blue sky.
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Wheat%20field%20under%20a%20blue%20sky.gif)
 ![Image](https://github.com/anonymous202203/EVG/blob/main/video/Wheat_field_under_a_blue_sky.gif)
 
-Input Text: Wheat field under a blue sky.
+<!-- Input Text: Wheat field under a blue sky.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Wheat%20field%20under%20a%20blue%20sky1.gif)
 ![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif)
@@ -461,5 +456,5 @@ Input Text: Wonderful sea on sunny day and blue sky.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/Wonderful%20sea%20on%20sunny%20day%20and%20blue%20sky.gif)
 ![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif)
-
+ -->
 
