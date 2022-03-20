@@ -5,6 +5,7 @@
 Input Text: 4k time lapse of tokyo's beautiful night traffic scenes shot from a high angle.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/4k%20time%20lapse%20of%20tokyo's%20beautiful%20night%20traffic%20scenes%20shot%20from%20a%20high%20angle-25555.gif)
+![Image](https://github.com/anonymous202203/EVG/blob/main/video/4k_time_lapses_of_barcelona_shot_from_a_high_vantage_point.gif)
 
 Input Text: 4k time lapses of barcelona shot from a high vantage point.
 
