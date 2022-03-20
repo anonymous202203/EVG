@@ -2,9 +2,9 @@
 
 ## More genrated samples
 
-Input Text: 4k time lapse of tokyo's beautiful night traffic scenes shot from a high angle.
+<!-- Input Text: 4k time lapse of tokyo's beautiful night traffic scenes shot from a high angle.
 
-![Image](https://github.com/anonymous202203/EVG/blob/main/gif/4k%20time%20lapse%20of%20tokyo's%20beautiful%20night%20traffic%20scenes%20shot%20from%20a%20high%20angle-25555.gif)
+![Image](https://github.com/anonymous202203/EVG/blob/main/gif/4k%20time%20lapse%20of%20tokyo's%20beautiful%20night%20traffic%20scenes%20shot%20from%20a%20high%20angle-25555.gif) -->
 <!-- ![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif) -->
 
 Input Text: 4k time lapses of barcelona shot from a high vantage point.
@@ -34,13 +34,13 @@ Input Text: An urban commuter train.
 
 Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset istanbul turkey photo sequence shot in raw, tracking shot.
 
-![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset%20istanbul%20turkey%20photo%20sequence%20shot%20in%20raw,%20tracking%20shot.gif)
+<!-- ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset%20istanbul%20turkey%20photo%20sequence%20shot%20in%20raw,%20tracking%20shot.gif) -->
 <!-- ![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif) -->
 
 Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset-27777.gif)
-<!-- ![Image](https://github.com/anonymous202203/EVG/blob/main/video/.gif) -->
+![Image](https://github.com/anonymous202203/EVG/blob/main/video/2015,february_22_maidens_tower_istanbul,ultra_hd_4k,time_lapse_photography,_cloudy_day,people_walking_on_the_coast_with_maiden_tower_at_sunset_27777.gif)
 
 Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset.
 
