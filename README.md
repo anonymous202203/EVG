@@ -45,7 +45,7 @@ Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photo
 Input Text: 2015,february 22 maidens tower istanbul,ultra hd 4k,time lapse photography, cloudy day,people walking on the coast with maiden tower at sunset.
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/gif/2015,february%2022%20maidens%20tower%20istanbul,ultra%20hd%204k,time%20lapse%20photography,%20cloudy%20day,people%20walking%20on%20the%20coast%20with%20maiden%20tower%20at%20sunset-36666.gif)
-![Image](https://github.com/anonymous202203/EVG/blob/main/video/2015,february_22_maidens_tower_istanbul,ultra_hd_4k,time_lapse_photography,_cloudy_day,people_walking_on_the_coast_with_maiden_tower_at_sunset_27777.gif)
+![Image](https://github.com/anonymous202203/EVG/blob/main/video/2015,february_22_maidens_tower_istanbul,ultra_hd_4k,time_lapse_photography,_cloudy_day,people_walking_on_the_coast_with_maiden_tower_at_sunset_36666.gif)
 
 Input Text: Aquarium with colorfull fish.
 
