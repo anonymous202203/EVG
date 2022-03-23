@@ -11,7 +11,7 @@
 
 Input Text: 4k time lapses of barcelona shot from a high vantage point.
 
-![Image](https://github.com/anonymous202203/EVG/blob/main/gif/4k%20time%20lapses%20of%20barcelona%20shot%20from%20a%20high%20vantage%20point.gif)
+![Image](https://github.com/anonymous202203/EVG/blob/main/gif/4k_time_lapses_of_barcelona_shot_from_a_high_vantage_point.gif)
 ![Image](https://github.com/anonymous202203/EVG/blob/main/video/4k_time_lapses_of_barcelona_shot_from_a_high_vantage_point.gif)
 
 Input Text: Abstract motion background in gold colors, shining lights, energy waves  and sparkling  particles, seamless looping.
