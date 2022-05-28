@@ -3,6 +3,7 @@
 ## 1. Generate long videos
 
 ![Image](https://github.com/anonymous202203/EVG/blob/main/15-second.png)
+![Image](https://github.com/anonymous202203/EVG/blob/main/50-second.png)
 
 
 ## 2. Performance on the domain dataset FaceForensics
