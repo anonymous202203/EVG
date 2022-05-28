@@ -2,9 +2,8 @@
 
 ## 1. Generate long videos
 
-**Unconditional video generation on the FaceForensics dataset**
+![Image](https://github.com/anonymous202203/EVG/blob/main/15-second.png)
 
-**Text-to-video generation on the Webvid dataset**
 
 ## 2. Performance on the domain dataset FaceForensics
 
