@@ -2,7 +2,9 @@
 
 ## 1. Generate long videos
 Each 15-second long video is composed by 30 frames with FPS of 2.
+
 Each 50-second long video is composed by 100 frames with FPS of 2.
+
 ![Image](https://github.com/anonymous202203/EVG/blob/main/15-second.png)
 ![Image](https://github.com/anonymous202203/EVG/blob/main/50-second.png)
 
